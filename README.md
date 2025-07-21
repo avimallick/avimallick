@@ -40,14 +40,8 @@
 
 ### 📦 Noteworthy Projects
 
-- 🔧 **Anti-Pattern Refactor Agent** – AI-driven Java codebase cleanup with LangGraph + static analysis  
-- 🧠 **TopoIndex** – Python package for graph-theoretic molecule indexing (on PyPI)  
-- 🛠️ **tf-sim-tutor** – Go CLI simulating Terraform workflows offline  
+- 🔧 **Anti-Pattern Refactor Agent** – AI-driven Java codebase cleanup with LangGraph + static analysis (In-Progress)
+- 🧠 **TopoIndex** – Python package for graph-theoretic molecule indexing (on PyPI).
+- 🛠️ **Quntum Simulator** - Distributed Dask setup for simulating a Quantum Computer to calculate the metrics of a Quantum Machine Learning Algorithm.
 - 💾 **Vektoria** – Self-hosted hybrid vector DB (FAISS + SQLite) with LangChain integration  
 - 🧪 **Legacy Code Migrator** – Multi-agent COBOL-to-Python pipeline with formal verification
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avimallick&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub Stats"/>
-</p>
