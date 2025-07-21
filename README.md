@@ -7,8 +7,6 @@
 
 🧠 Previously developed a **COBOL-to-Python migration pipeline** using reverse engineering and formal verification, turning ancient enterprise code into clean, testable Python.
 
-🚀 I like playing with the deep stack — distributed simulation using Dask, provisioning compute with Terraform & Ansible, or building my own vector DB from scratch.
-
 ---
 
 ### 📫 Let's Connect
@@ -16,8 +14,8 @@
   <a href="https://www.linkedin.com/in/avinash-mallick-b272b6214/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avinash Mallick" height="30" width="40" />
   </a>
-  <a href="mailto:youremail@example.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="40" />
+  <a href="mailto:avimallick@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/new-post.png" alt="email" height="30" width="40" />
   </a>
 </p>
 
